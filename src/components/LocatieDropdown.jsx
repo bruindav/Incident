@@ -1,6 +1,6 @@
 // src/components/LocatieDropdown.jsx // V1
 import React, { useState, useRef, useEffect, useCallback } from 'react'
-import { MapPin, Search, X, Navigation, Anchor, Bridge } from 'lucide-react'
+import { MapPin, Search, X, Navigation, Anchor } from 'lucide-react'
 import { useRwsLocatie } from '../hooks/useRwsLocatie'
 import LocatieKaart from './LocatieKaart'
 
