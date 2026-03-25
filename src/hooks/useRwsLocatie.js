@@ -1,4 +1,4 @@
-// src/hooks/useRwsLocatie.js // V1
+// src/hooks/useRwsLocatie.js // V1 
 import { useState, useCallback, useRef } from 'react'
 
 // Rijkswaterstaat / PDOK locatieserver voor vaarwegen, sluizen, bruggen
